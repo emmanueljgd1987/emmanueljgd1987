@@ -212,7 +212,7 @@
             ```
 
 ## Empresa
-* Merkarte: Cree temas tanto en wordpress, ejecutar diseños de parte de ux para diversos clientes.
+* Merkarte: Cree temas en wordpress, ejecutar diseños de parte de ux para diversos clientes.
   - Zagxa 
     - Escritorio
       - ![image](https://github.com/emmanueljgd1987/emmanueljgd1987/assets/118326896/3b554127-adb6-41bc-9756-5005bccbcb8a)
@@ -223,8 +223,18 @@
     - Tablet
       - ![image](https://github.com/emmanueljgd1987/emmanueljgd1987/assets/118326896/386c2b13-c9cf-4fb0-86ed-ee91623829b3)
     
+  - Csirh
+    - Escritorio
+      - ![image](https://github.com/emmanueljgd1987/emmanueljgd1987/assets/118326896/de56d8d3-4ec5-422e-b687-b38735cdcdae)
+      
+    - Mobile 
+      - ![image](https://github.com/emmanueljgd1987/emmanueljgd1987/assets/118326896/71caf3b9-b64d-4c25-a355-6a1e5072c162)
 
-     
+    - Tablet
+      - ![image](https://github.com/emmanueljgd1987/emmanueljgd1987/assets/118326896/af5674d8-bce2-4108-8e77-ccac5a431df7)
+ 
+ 
+  
  
     
 
