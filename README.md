@@ -125,9 +125,90 @@
         
           
         
-      - LESS 
-            - 
-
+     - LESS
+      -   ``` .cat-level-2-filters (@gridColumns) {
+  .list-category-level {
+    .list-category-level-unordered {
+      display: grid;
+      grid-gap: 0px;
+      grid-template-columns: repeat(@gridColumns, 1fr);
+      align-items: center;
+      padding: 0;
+      margin: 0;
+      .list-category-level-unordered-item {
+        list-style: none;
+        position: relative;
+        margin-bottom: 16px;
+        border: 1px solid @cvgrey;
+        border-radius: 4px;
+        height: 134px;
+        cursor: pointer;
+        width: 90%;
+        background-color: @white;
+        div {
+          span {
+            width: 100%;
+            img {
+              width: 100%;
+              height: auto;
+              border-radius: 4px;
+              max-height: 128px;
+            }
+            span {
+              color: @black;
+              font-weight: normal;
+              font-size: @catorce;
+              line-height: 18px;
+              word-break: break-word;
+              text-align: center;
+              width: 100%;
+              display: block;
+              box-sizing: border-box;
+              position: absolute;
+              bottom: 16px;
+              left: 0;
+              padding: 0 5px 0 5px;
+            }
+          }
+        }
+      }
+      .list-category-level-unordered-item:last-child {
+        margin-right: 0px;
+      }
+      .ais-RefinementList-item--selected {
+        border: 3px solid @tertiary_button;
+        box-sizing: border-box;
+        border-radius: 5px;
+        .ais-RefinementList-label {
+          position: absolute;
+          cursor: pointer;
+          right: 13px;
+          top: -1px;
+        }
+        .ais-RefinementList-label::before {
+          content: '';
+          background-color: @tertiary_button;
+          position: absolute;
+          cursor: pointer;
+          width: 14px;
+          height: 14px;
+        }
+        .ais-RefinementList-label::after {
+          content: ' ';
+          background-image: url("@{images}/vivia_theme/check.svg");
+          background-position: center center;
+          background-repeat: no-repeat;
+          position: absolute;
+          top: -6px;
+          left: -4px;
+          height: 24px;
+          width: 24px;
+        }
+      }
+    }
+  }
+}
+```
  
     
 
