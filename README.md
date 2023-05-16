@@ -216,6 +216,14 @@
   - Zagxa 
     - Escritorio
       - ![image](https://github.com/emmanueljgd1987/emmanueljgd1987/assets/118326896/3b554127-adb6-41bc-9756-5005bccbcb8a)
+      
+    - Mobile
+      - ![image](https://github.com/emmanueljgd1987/emmanueljgd1987/assets/118326896/9d7a1f3d-463a-4822-a108-9723333f6d0b)
+      
+    - Tablet
+      - ![image](https://github.com/emmanueljgd1987/emmanueljgd1987/assets/118326896/386c2b13-c9cf-4fb0-86ed-ee91623829b3)
+    
+
      
  
     
