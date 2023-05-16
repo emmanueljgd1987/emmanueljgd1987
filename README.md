@@ -244,6 +244,19 @@
        - ![image](https://github.com/emmanueljgd1987/emmanueljgd1987/assets/118326896/6fd3011c-19bf-4b88-a92e-af65424dd410)
   
 
+## Proyectos 
+* ControlGDI: Permite administrar diversas salas de fiestas.
+  - Escritorio
+    - ![image](https://github.com/emmanueljgd1987/emmanueljgd1987/assets/118326896/970d8137-3149-4294-bec4-9db4ffe509d1)
+    
+  - Mobile 
+    - ![image](https://github.com/emmanueljgd1987/emmanueljgd1987/assets/118326896/5d13dd2c-d5f3-4f38-a5f5-28337529daae)
+  
+  - Tablet
+    - ![image](https://github.com/emmanueljgd1987/emmanueljgd1987/assets/118326896/f8dc0cf5-0009-4ab9-9ec8-c622e5f09c11)
+  
+  
+   
 
   
    
