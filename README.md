@@ -232,6 +232,21 @@
 
     - Tablet
       - ![image](https://github.com/emmanueljgd1987/emmanueljgd1987/assets/118326896/af5674d8-bce2-4108-8e77-ccac5a431df7)
+      
+   - gomzoffshore
+     - Escritorio
+       - ![image](https://github.com/emmanueljgd1987/emmanueljgd1987/assets/118326896/95409815-e2b5-4332-b9c0-1454f7b04521)
+       
+     - Mobile
+       - ![image](https://github.com/emmanueljgd1987/emmanueljgd1987/assets/118326896/5f3b0619-d531-4d59-aa69-1d79133f1ba7)
+       
+     - Tablet
+       - ![image](https://github.com/emmanueljgd1987/emmanueljgd1987/assets/118326896/6fd3011c-19bf-4b88-a92e-af65424dd410)
+  
+
+
+  
+   
  
  
   
