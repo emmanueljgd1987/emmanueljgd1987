@@ -126,7 +126,8 @@
           
         
      - LESS
-      -   ``` .cat-level-2-filters (@gridColumns) {
+      -   
+        ``` .cat-level-2-filters (@gridColumns) {
   .list-category-level {
     .list-category-level-unordered {
       display: grid;
