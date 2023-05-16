@@ -210,6 +210,13 @@
               }
             }
             ```
+
+## Empresa
+* Merkarte: Cree temas tanto en wordpress, ejecutar diseños de parte de ux para diversos clientes.
+  - Zagxa 
+    - Escritorio
+      - ![image](https://github.com/emmanueljgd1987/emmanueljgd1987/assets/118326896/3b554127-adb6-41bc-9756-5005bccbcb8a)
+     
  
     
 
