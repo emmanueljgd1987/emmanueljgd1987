@@ -1,14 +1,14 @@
-## **Portafolio by Emmanuel Góngora**
+## **HELLO, Portafolio by Emmanuel Góngora**
 
-Este portafolio muestra mis habilidades como maquetador web. Utilizo CSS, HTML y LESS para crear diseños web atractivos y funcionales.
+Este portafolio describe mis habilidades como Front-end, herramientas usadas, proyectos personales y laborales.
 
 ## **Información personal**
 
-* Nombre: [Tu nombre]
-* Ciudad: [Tu ciudad]
-* País: [Tu país]
-* Correo electrónico: [Tu correo electrónico]
-* LinkedIn: [Tu perfil de LinkedIn]
+* Nombre: Emmanuel Góngora
+* Ciudad: Lerdo, Durango
+* País: México 
+* Correo electrónico: ejgd1987@gmail.com
+* LinkedIn: https://www.linkedin.com/in/emmanuel-g%C3%B3ngora-d%C3%ADaz-722057150
 
 ## **Habilidades**
 
