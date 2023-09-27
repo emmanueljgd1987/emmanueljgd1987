@@ -25,7 +25,7 @@ Este portafolio describe mis habilidades como Front-end, herramientas usadas, pr
 
 ## **Metodologias y Herramientas**
 
-* SCRUM:DFDF
+* SCRUM
 * KANBAN 
 * JIRA
 * CONFLUENCE
