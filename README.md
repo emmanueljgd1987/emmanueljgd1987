@@ -36,7 +36,7 @@ Este portafolio describe mis habilidades como Front-end, herramientas usadas, pr
 * **GAIA Design**
     * Descripción: Maquetacion de el apartado de busqueda, programacion de los filtros usando Vanilla JS, progracion de eventos para el track de los clientes.
     * Tecnologías utilizadas: Segment, Algolia, Insider, JS, PHP, NextJS, Zustand, JSON, CS-CART.
-    * Demostración: [Un enlace a la demostración del proyecto].
+    * Demostración: https://www.gaiadesign.com.mx/muebles/sofas.html
 
 ## **Contacto**
 
