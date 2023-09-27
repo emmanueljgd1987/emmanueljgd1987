@@ -25,11 +25,11 @@ Este portafolio describe mis habilidades como Front-end, herramientas usadas, pr
 
 ## **Metodologias y Herramientas**
 
-*SCRUM
-*KANBAN 
-*JIRA
-*CONFLUENCE
-*SLACK
+* SCRUM
+* KANBAN 
+* JIRA
+* CONFLUENCE
+* SLACK
 
 
 ## **Trabajos y Proyectos**
@@ -42,12 +42,3 @@ Este portafolio describe mis habilidades como Front-end, herramientas usadas, pr
 ## **Contacto**
 
 Para obtener más información, ponte en contacto conmigo en [Tu correo electrónico] o [Tu perfil de LinkedIn].
-
-
-# PORTAFOLIO
-## Empresa
-* GAIA Design: Me encargue del category donde se realizaban las busquedas los usuarios empleando filtros donde los usuarios obtenian la data desde algolia, posterior a eso me encargue igual a "Vende en GAIA"
-  - Vende en GAIA 
-    
-       
-   
