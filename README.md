@@ -40,4 +40,4 @@ Este portafolio describe mis habilidades como Front-end, herramientas usadas, pr
 
 ## **Contacto**
 
-Para obtener más información, ponte en contacto conmigo en [Tu correo electrónico] o [Tu perfil de LinkedIn].
+Para obtener más información, ponte en contacto conmigo en ejgd1987@gmail.com o https://www.linkedin.com/in/emmanuel-g%C3%B3ngora-d%C3%ADaz-722057150.
