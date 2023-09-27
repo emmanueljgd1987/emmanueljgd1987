@@ -12,20 +12,31 @@ Este portafolio describe mis habilidades como Front-end, herramientas usadas, pr
 
 ## **Habilidades**
 
-* CSS: Conocimiento avanzado de los conceptos básicos de CSS, como selectores, propiedades, valores y unidades.
-* HTML: Conocimiento avanzado de la sintaxis y semántica de HTML.
-* LESS: Experiencia en el uso de LESS para crear CSS más modular y extensible.
-* Otras habilidades:
-    * Experiencia en el uso de herramientas de diseño web, como Figma y Sketch.
-    * Experiencia en el uso de Git y GitHub.
-    * Capacidad de trabajar de forma independiente y en equipo.
-    * Capacidad de cumplir con plazos.
+* CSS: Conocimiento avanzado.
+* HTML: Conocimiento avanzado .
+* LESS: Conocimiento avanzado.
+* Figma: Usado para poder maquetar en conjunto con Pixel Perfect.
+* Git y GitHub: para el control de versiones.
+* NextJS: Conocimientos en Avanzados.
+* ExpressJS: Conocimientos en Avanzados.
+* Prisma: Intermedio.
+* Capacidad de trabajar de forma independiente y en equipo.
+* Capacidad de cumplir con plazos.
 
-## **Proyectos**
+## **Metodologias y Herramientas**
 
-* **[Nombre del proyecto]**
-    * Descripción del proyecto: [Una breve descripción del proyecto].
-    * Tecnologías utilizadas: [Una lista de las tecnologías utilizadas en el proyecto].
+*SCRUM
+*KANBAN 
+*JIRA
+*CONFLUENCE
+*SLACK
+
+
+## **Trabajos y Proyectos**
+
+* **GAIA Design**
+    * Descripción: Maquetacion de el apartado de busqueda, programacion de los filtros usando Vanilla JS, progracion de eventos para el track de los clientes.
+    * Tecnologías utilizadas: Segment, Algolia, Insider, JS, PHP, NextJS, Zustand, JSON, CS-CART.
     * Demostración: [Un enlace a la demostración del proyecto].
 
 ## **Contacto**
