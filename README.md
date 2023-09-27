@@ -1,4 +1,4 @@
-## **Portafolio de [Tu nombre]**
+## **Mi Portafolio by Emmanuel Góngora**
 
 Este portafolio muestra mis habilidades como maquetador web. Utilizo CSS, HTML y LESS para crear diseños web atractivos y funcionales.
 
