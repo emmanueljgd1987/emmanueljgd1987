@@ -1,4 +1,4 @@
-## **HELLO, Portafolio by Emmanuel Góngora**
+## **<kbd>HELLO<kbd>, Portafolio by Emmanuel Góngora**
 
 Este portafolio describe mis habilidades como Front-end, herramientas usadas, proyectos personales y laborales.
 
