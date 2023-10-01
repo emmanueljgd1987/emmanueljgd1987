@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/emmanueljgd1987/emmanueljgd1987/main/BANNER%20GITHUB.png">
 </div>
 
-**Este portafolio describe mis habilidades como Front-end, herramientas usadas, proyectos personales y laborales.**
+**Este portafolio describe mis habilidades como Front-end, herramientas usadas, proyectos personales y laborales[^1].**
 
 ## **Información personal**
 
