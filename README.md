@@ -14,8 +14,8 @@
 
 ## **Habilidades**
 
-* [![Generic CSS](https://img.shields.io/badge/CSS-CSS3-orange.svg)](https://shields.io/)
-* [![Generic HTML](https://img.shields.io/badge/HTML-HTML5-<COLOR>.svg)](https://shields.io/)
+* [![Generic CSS](https://img.shields.io/badge/CSS-CSS3-blue.svg)](https://shields.io/)
+* [![Generic HTML](https://img.shields.io/badge/HTML-HTML5-orange.svg)](https://shields.io/)
 * [![Generic LESS](https://img.shields.io/badge/LESS-LESS-<COLOR>.svg)](https://shields.io/)
 * Figma: Usado para poder maquetar en conjunto con Pixel Perfect.
 * Git y GitHub: para el control de versiones.
