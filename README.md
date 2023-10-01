@@ -22,7 +22,7 @@
 * ![Badge React](https://badges.aleen42.com/src/react.svg)
 * [![Next.js](https://img.shields.io/badge/Next.js-13.1.0-orange.svg)](https://nextjs.org/)
 * [![Express](https://img.shields.io/badge/Express-4.18.0-green.svg)](https://expressjs.com/)
-* Prisma: Intermedio.
+* [![Prisma](https://img.shields.io/badge/Prisma-3.10.0-blue.svg)](https://www.prisma.io/)
 * Capacidad de trabajar de forma independiente y en equipo.
 * Capacidad de cumplir con plazos.
 
