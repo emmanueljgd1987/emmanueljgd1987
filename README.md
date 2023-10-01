@@ -14,8 +14,8 @@
 
 ## **Habilidades**
 
-* [![Generic CSS](https://img.shields.io/badge/CSS-CSS-<COLOR>.svg)](https://shields.io/)
-* HTML: Conocimiento avanzado .
+* [![Generic CSS](https://img.shields.io/badge/CSS-CSS3-<COLOR>.svg)](https://shields.io/)
+* [![Generic HTML](https://img.shields.io/badge/HTML-HTML5-<COLOR>.svg)](https://shields.io/)
 * LESS: Conocimiento avanzado.
 * Figma: Usado para poder maquetar en conjunto con Pixel Perfect.
 * Git y GitHub: para el control de versiones.
