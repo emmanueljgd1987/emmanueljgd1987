@@ -38,10 +38,15 @@
 
 ## **Trabajos y Proyectos**
 
+* **Gallegos Trailers**
+    * Descripción: Conectar con el api de sap y crear una interfaz web para poder cotizar mediante su service layer.
+    * Tecnologías utilizadas: JS, PHP, NextJS, Zustand, JSON, ExpressJS, Node, React.
+    * Demostración: Ejemplo de conexión al API SAP
+
 * **GAIA Design**
     * Descripción: Maquetacion de el apartado de busqueda, programacion de los filtros usando Vanilla JS, progracion de eventos para el track de los clientes.
     * Tecnologías utilizadas: Segment, Algolia, Insider, JS, PHP, NextJS, Zustand, JSON, CS-CART.
-    * Demostración: https://www.gaiadesign.com.mx/muebles/sofas.html
+    * Demostración: https://www.gaiadesign.com.mx
 
 ## **Contacto**
 
