@@ -16,8 +16,8 @@
 
 * [![Generic CSS](https://img.shields.io/badge/CSS-CSS3-blue.svg)](https://shields.io/)
 * [![Generic HTML](https://img.shields.io/badge/HTML-HTML5-orange.svg)](https://shields.io/)
-* [![Generic LESS](https://img.shields.io/badge/LESS-3.x-blue.svg)](https://shields.io/)
-* [![Figma](https://img.shields.io/badge/Figma-3.x-green.svg)](https://shields.io/)
+* [![Generic LESS](https://img.shields.io/badge/LESS-6.4-blue.svg)](https://shields.io/)
+* [![Figma](https://img.shields.io/badge/Figma-116.4-green.svg)](https://shields.io/)
 * Git y GitHub: para el control de versiones.
 * ![Badge React](https://badges.aleen42.com/src/react.svg)
 * NextJS: Conocimientos en Avanzados.
