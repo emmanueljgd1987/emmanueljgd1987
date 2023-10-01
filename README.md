@@ -10,7 +10,7 @@
 * Ciudad: Lerdo, Durango
 * País: México 
 * Correo electrónico: ejgd1987@gmail.com
-* LinkedIn: https://www.linkedin.com/in/emmanuel-g%C3%B3ngora-d%C3%ADaz-722057150
+* LinkedIn: https://bit.ly/emmanuelgongora
 
 ## **Habilidades**
 
