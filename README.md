@@ -19,6 +19,7 @@
 * LESS: Conocimiento avanzado.
 * Figma: Usado para poder maquetar en conjunto con Pixel Perfect.
 * Git y GitHub: para el control de versiones.
+* ![Badge name](https://badges.aleen42.com/src/react.svg)
 * NextJS: Conocimientos en Avanzados.
 * ExpressJS: Conocimientos en Avanzados.
 * Prisma: Intermedio.
