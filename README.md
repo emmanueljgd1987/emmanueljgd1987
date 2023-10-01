@@ -17,6 +17,7 @@
 * [![Generic CSS](https://img.shields.io/badge/CSS-CSS3-blue.svg)](https://shields.io/)
 * [![Generic HTML](https://img.shields.io/badge/HTML-HTML5-orange.svg)](https://shields.io/)
 * [![Generic LESS](https://img.shields.io/badge/LESS-6.4-blue.svg)](https://shields.io/)
+* [![Generic Ta](https://badges.aleen42.com/src/tailwindcss.svg)](https://shields.io/)
 * [![Figma](https://img.shields.io/badge/Figma-116.4-green.svg)](https://shields.io/)
 * ![Badge Github](https://badges.aleen42.com/src/github.svg)   
 * ![Badge React](https://badges.aleen42.com/src/react.svg)
