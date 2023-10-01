@@ -18,10 +18,10 @@
 * [![Generic HTML](https://img.shields.io/badge/HTML-HTML5-orange.svg)](https://shields.io/)
 * [![Generic LESS](https://img.shields.io/badge/LESS-6.4-blue.svg)](https://shields.io/)
 * [![Figma](https://img.shields.io/badge/Figma-116.4-green.svg)](https://shields.io/)
-* Git y GitHub: para el control de versiones.
+* ![Badge Github](https://badges.aleen42.com/src/github.svg)   
 * ![Badge React](https://badges.aleen42.com/src/react.svg)
-* NextJS: Conocimientos en Avanzados.
-* ExpressJS: Conocimientos en Avanzados.
+* [![Next.js](https://img.shields.io/badge/Next.js-13.1.0-orange.svg)](https://nextjs.org/)
+* [![Express](https://img.shields.io/badge/Express-4.18.0-green.svg)](https://expressjs.com/)
 * Prisma: Intermedio.
 * Capacidad de trabajar de forma independiente y en equipo.
 * Capacidad de cumplir con plazos.
