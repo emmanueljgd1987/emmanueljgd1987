@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://octodex.github.com/images/dunetocat.png](https://raw.githubusercontent.com/emmanueljgd1987/emmanueljgd1987/main/BANNER%20GITHUB.png)" width="200">
+<img src="https://raw.githubusercontent.com/emmanueljgd1987/emmanueljgd1987/main/BANNER%20GITHUB.png" width="200">
 </div>
 
 Este portafolio describe mis habilidades como Front-end, herramientas usadas, proyectos personales y laborales.
